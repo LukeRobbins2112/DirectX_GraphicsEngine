@@ -1,5 +1,4 @@
 // ShaderColorLight
-// Andre Berthiaume, Feb 2017
 
 #ifndef _ShaderTextureLight
 #define _ShaderTextureLight

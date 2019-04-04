@@ -1,5 +1,3 @@
-// GraphicObject_ColorLight
-// Andre Berthiaume, July 2016
 
 #ifndef _GraphicObject_ColorLight
 #define _GraphicObject_ColorLight

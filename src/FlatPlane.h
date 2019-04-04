@@ -1,5 +1,4 @@
 // FlatPlane.h
-// Berthiaume Jan 2017
 
 #ifndef _FlatPlane
 #define _FlatPlane

@@ -1,5 +1,4 @@
 // DXApp
-// Andre Berthiaume, June 2016
 // Note: DX 11 SDK https://www.microsoft.com/en-us/download/details.aspx?id=6812
 // Note on weird stuff with swap chain (1s and 2s) https://msdn.microsoft.com/en-us/library/windows/desktop/jj863687(v=vs.85).aspx
 

@@ -1,5 +1,4 @@
 // MeshSeperator
-// Andre Berthiaume, July 2016
 
 #ifndef _MeshSeperator
 #define _MeshSeperator

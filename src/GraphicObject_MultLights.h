@@ -1,5 +1,4 @@
-// GraphicObject_MultLights
-// Andre Berthiaume, July 2016
+
 
 #ifndef _GraphicObject_MultLights
 #define _GraphicObject_MultLights

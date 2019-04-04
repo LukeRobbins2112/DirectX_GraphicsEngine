@@ -1,5 +1,4 @@
 // ShaderColor
-// Andre Berthiaume, july 2016
 
 #ifndef _ShaderColor
 #define _ShaderColor

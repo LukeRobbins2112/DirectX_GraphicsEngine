@@ -1,6 +1,4 @@
 // ShaderColorMultLights
-// Andre Berthiaume, Feb 2017
-
 #ifndef _ShaderColorMultLights
 #define _ShaderColorMultLights
 

@@ -1,5 +1,4 @@
 // ShaderBase
-// AB, June 2016
 
 #ifndef _ShaderBase
 #define _ShaderBase
